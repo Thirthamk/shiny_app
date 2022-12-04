@@ -15,6 +15,6 @@ pip-selfcheck.json
 __pycache__
 *.docx
 *.xlsx
-*.csv
+*.[ct]sv
 ttx.*
 *.zip
