@@ -1,5 +1,7 @@
 # Thirtha Shiny Application - Product Sales Information Forecast
 
+![Image of Product Sales Information Data](shiny_app_image.jpg)
+
 ## Project Overview
 
 The aim of this project is to create a Shiny for Python application to forecast the product sales over the next 24 months using the data provided in the given `Data.xlsx` document. The data should be uploaded in the web application and the output graph should showcase the forecasted growth of product sales using Holt-Winters Seasonal forecasting model.
